@@ -9,3 +9,5 @@ https://www.businessworldit.com/ai/artificial-intelligence-in-business/
 https://www.youtube.com/watch?v=y5swZ2Q_lBw
 
 https://www.youtube.com/watch?v=WSbgixdC9g8
+
+https://www.tutorialspoint.com/scikit_learn/scikit_learn_estimator_api.htm

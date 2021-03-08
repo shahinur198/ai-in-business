@@ -3,3 +3,4 @@ https://www.nibusinessinfo.co.uk/content/how-are-businesses-using-artificial-int
 
 https://www.forbes.com/sites/bernardmarr/2020/03/30/10-business-functions-that-are-ready-to-use-artificial-intelligence/?sh=99a25e030681
 
+https://www.businessworldit.com/ai/artificial-intelligence-in-business/

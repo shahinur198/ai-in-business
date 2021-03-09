@@ -13,3 +13,5 @@ https://www.youtube.com/watch?v=WSbgixdC9g8
 https://www.tutorialspoint.com/scikit_learn/scikit_learn_estimator_api.htm
 
 https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_research_areas.htm#:~:text=The%20domain%20of%20AI%20is,Mundane%20tasks%2C%20and%20Expert%20tasks.&text=Humans%20learn%20mundane%20(ordinary)%20tasks,Tasks%20later%2C%20in%20that%20order.
+
+https://builtin.com/artificial-intelligence/ai-companies-roundup
